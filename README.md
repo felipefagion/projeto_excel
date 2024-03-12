@@ -1,5 +1,5 @@
 # Processo Seletivo
-Gostaria de compartilhar um processo seletivo no qual participei. Foi uma experiência muito importante para minha carreira, estou aqui para compartilhar de como ele foi desenvolvido e como eu respondi a ele. Infelizmente, não tenho conseguido atualizar meu portfólio com tanta frequência ultimamente, devido à alguns projetos que tenho feito como freelancer. Assim que puder, pretendo compartilhar tudo sobre o que tenho feito e como tenho feito uma diferença significativa na empresa em que estou trabalhando, mesmo sendo apenas um freelancer.
+Gostaria de compartilhar um processo seletivo no qual participei, onde tive que apresentar um dashboard para um gestor. Foi uma experiência muito importante para meu desenvolvimento, estou aqui para compartilhar de como ele foi desenvolvido e como eu respondi a ele. Infelizmente, não tenho conseguido atualizar meu portfólio com tanta frequência ultimamente, estou dando prioridade a projetos reais que tenho feito como freelancer. Assim que puder, pretendo compartilhar tudo sobre o que tenho feito e como tenho feito uma diferença significativa na empresa em que estou trabalhando, mesmo sendo apenas um freelancer.
 ![alt text](image.png)
 
 
