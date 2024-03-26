@@ -1,5 +1,5 @@
 # Processo Seletivo
-Gostaria de compartilhar um processo seletivo no qual participei, onde tive que desenvolver e apresentar um dashboard no Excel para um gestor. Foi uma experiência muito importante para meu desenvolvimento, estou aqui para compartilhar de como ele foi desenvolvido e como eu respondi a ele. 
+Gostaria de compartilhar um processo seletivo no qual participei, onde tive que desenvolver e apresentar um dashboard no Excel para um gestor. Foi uma experiência muito importante para meu desenvolvimento, estou aqui para compartilhar de como ele foi desenvolvido e respondido.
 
 
 
